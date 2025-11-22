@@ -18,7 +18,7 @@
 set -e                                           # Exit on error.
 cd "$(dirname "$(dirname "$(realpath "$0")")")"  # Go to project root.
 
-DEVICE=AVATTO_TS0004  # Change this to your device
+DEVICE=TUYA_5_TS0001  # Change this to your device
 
 TYPE=router
 BOARD=$DEVICE DEVICE_TYPE=$TYPE make clean && BOARD=$DEVICE DEVICE_TYPE=$TYPE DEBUG=1 make -j16
