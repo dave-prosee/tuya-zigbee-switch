@@ -54,4 +54,5 @@ Also read:
 | [TS0011_switch_module](https://www.zigbee2mqtt.io/devices/TS0011_switch_module.html) | Tuya 1-gang L-only  | _TZ3000_ji4araar | router / end_device | Supported |   [link](https://github.com/romasku/tuya-zigbee-switch/issues/4)  | 
 | [TS0012_switch_module](https://www.zigbee2mqtt.io/devices/TS0012_switch_module.html) | Tuya 2-gang L-only  | _TZ3000_jl7qyupf | router / end_device | Supported |    -  | 
 | [TS0012](https://www.zigbee2mqtt.io/devices/TS0012.html) | Zemismart 2-gang switch  | _TZ3000_zmlunnhy | router / end_device | In progress |   [link](https://github.com/romasku/tuya-zigbee-switch/issues/19)  | 
+| [WHD02](https://www.zigbee2mqtt.io/devices/WHD02.html) | Tuya 1-gang  | _TZ3000_i9oy2rdq | router | Supported |   [link](https://github.com/romasku/tuya-zigbee-switch/issues/xx)  | 
 
