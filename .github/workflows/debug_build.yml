@@ -1,0 +1,19 @@
+name: Debug Single Firmware Build
+
+on:
+  workflow_dispatch:  # handmatig triggeren via GitHub web
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: ./make_scripts/make_install.sh
+
+      - name: Build single firmware
+        run: |
+          ./make_scripts/make_debug_single.sh --model TUYA_5_TS0001 --output ./bin/router
