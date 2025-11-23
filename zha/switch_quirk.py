@@ -270,8 +270,8 @@ CONFIGS = [
     "zmlunnhy;Zemi-2-gang-ED;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
     "Zemi-2-gang;Zemi-2-gang;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
     "Zemi-2-gang;Zemi-2-gang-ED;SC3U;RB5C4;IB7;SD2U;RC2D4;ID7;",
-    "_TZ3000_i9oy2rdq;TS0001-custom;BC2u;SC3u;SB5u;RD2;LB4i",
-    "Tuya-WHD02-custom;TS0001-custom;BC2u;SC3u;SB5u;RD2;LB4i",
+    "_TZ3000_i9oy2rdq;TS0001-custom;BB5;RC3;LB4i;SC2u;SD2u;",
+    "Tuya-WHD02-custom;TS0001-custom;BB5;RC3;LB4i;SC2u;SD2u;",
 ]
 
 for config in CONFIGS:
