@@ -1035,7 +1035,7 @@ TUYA_5_TS0001:
   stock_converter_model: WHD02 
   override_z2m_device: null 
   zb_module: ZTU 
-  config_str: _TZ3000_i9oy2rdq;TS0001-custom;BC2u;SC3u;SB5u;RD2;LB4i 
+  config_str: _TZ3000_i9oy2rdq;TS0001-custom;BB5;RC3;LB4i;SC2u;SD2u;
   alt_config_str: null 
   old_manufacturer_names: 
   - Tuya-WHD02-custom 
